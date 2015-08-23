@@ -2,8 +2,8 @@
   "name": "Sickbeard",
   "id": "sickbeard",
   "description": {
-    "en": "Automatic music downloader",
-    "fr": "Téléchargement automatisé de musique"
+    "en": "Automatic TV show downloader",
+    "fr": "Téléchargement automatisé de série TV"
   },
   "license": "GPL-3",
   "maintainer": {
